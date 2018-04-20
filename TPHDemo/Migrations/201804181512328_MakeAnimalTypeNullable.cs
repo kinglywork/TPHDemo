@@ -1,0 +1,16 @@
+namespace TPHDemo.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class MakeAnimalTypeNullable : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
